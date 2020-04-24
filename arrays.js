@@ -14,12 +14,12 @@ function addElementToEndOfArray(array, element)
 {
   return[...array, element]
 }
-/*
+
 function destructivelyAddElementToEndOfArray
 {
   return array.push(element)
 }
-
+/*
 function accessElementInArray(array, index)
 {
   return array[index]
